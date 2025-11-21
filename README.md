@@ -431,7 +431,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Vishu" />
                     <br />
                     <sub>
-                        <b>Anuraag Choppadandi</b>
+                        <b>Vishu</b>
                     </sub>
                 </a>
             </td>
